@@ -149,8 +149,8 @@
     "lint": "eslint"
   },
   "engines": {
-    "node": ">=14.0.0",
-    "npm": ">=7.0.0"
+    "node": "16.x"
+   
   },
   "browserslist": {
     "production": [
